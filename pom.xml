@@ -15,7 +15,7 @@
 	<name>ui5FirstApp</name>
 	<description>Sample Spring Boot application to use SAP HANA Service</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
