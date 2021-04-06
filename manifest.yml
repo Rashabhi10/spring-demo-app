@@ -5,3 +5,4 @@ applications:
   host: demohelloapp
   random-route: true
   path: ./target/demoSpringApp1-0.0.1-SNAPSHOT.war
+  
